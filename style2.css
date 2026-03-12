@@ -1,0 +1,22 @@
+body{
+    background-image: url('0001.PNG') ;
+    color: white;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+min-height: 95vh;
+}
+.menu{display: flex;
+    text-decoration: none;
+    color: pink;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+p{
+color:rgb(221, 228, 240);
+}
