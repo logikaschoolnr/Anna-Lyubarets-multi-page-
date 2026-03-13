@@ -5,6 +5,11 @@ background-repeat:no-repeat;
 background-size:cover;
 background-position:center;
 min-height: 95vh;
+
+    max-width: 1000px; /* Максимальна ширина - 1000px */
+  margin: 0 auto;     /* Магія! Центрує блок по горизонталі */
+  padding: 40px 20px; /* Не забуваємо про внутрішні відступи */
+
 }
 a{display: flex;
     text-decoration: none;
@@ -19,4 +24,5 @@ a{display: flex;
 }
 p{
 color:rgb(221, 228, 240);
+
 }
