@@ -13,7 +13,7 @@ min-height: 95vh;
 }
 a{display: flex;
     text-decoration: none;
-    color: black;
+    color: grey;
     font-size:30px;
   padding: 10px;
 }
