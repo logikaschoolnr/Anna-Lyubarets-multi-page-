@@ -14,7 +14,8 @@ min-height: 95vh;
 a{display: flex;
     text-decoration: none;
     color: pink;
-    
+    font-size:30px;
+  padding: 10px;
 }
 .main{
     display: flex;
@@ -24,5 +25,4 @@ a{display: flex;
 }
 p{
 color:rgb(221, 228, 240);
-padding: 10px;
 }
